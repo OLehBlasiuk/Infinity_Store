@@ -1,0 +1,2 @@
+{"username":"Babakar","email":"ultimavictoriateam@gmail.com","password":"94fcaa65987bf0a78be7876e29592a69d58e5fe3f997850480b630b88249de56"}
+{"username":"Amaterasu","email":"ultimavictoriateam@gmail.com","password":"13388748cc1c3b734529b973a129332fc9d9798ac1d8f6bdbea166df9e40216a"}

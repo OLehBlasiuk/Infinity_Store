@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="../css/Login.css">
+</head>
+<body>
+    <div class="Page">
+        <div class="MainMenu">
+            <header>
+                <nav class="Pag1">
+                    <ul>
+                        <p><a class="InfinityStore">INFINITY STORE</a></p>
+                        <p class="s-a"><a class="Store" href="../html/Store.html">Store</a></p>
+                        <p class="s-a"><a class="Community" href="../html/Community.html">Community</a></p>
+                        <p class="s-a"><a class="NewsEvents" href="../html/NewsEvents.html">News & Events</a></p>
+                        <p class="s-a"><a class="Support" href="../html/Support.html">Support</a></p>
+                        <p class="s-a"><a class="AboutUs" href="../html/About Us.html">About Us</a></p>
+                        <p>
+                            <label for="site-search"></label>
+                            <input class="search" type="search" id="site-search" name="q">
+                            <img class="lookfor" src="../images/Lookfor.png" alt="Look for">
+                        </p>
+                        <p>
+                            <span id="ChangeLanguages" class="ChangeLanguages">
+                                <img class="iconChangeLanguages" src="../images/changeLanguage.png" alt="Change Languages">
+                            </span>
+                        </p>
+                        <a href="../html/Profile.html">
+                            <span id="Profile" class="Profile">
+                                <img class="iconProfile" src="../images/Profile.png" alt="Profile">
+                            </span>
+                        </a>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+    </div>
+
+    <div class="SideOfLogin">
+        <div class="LeftwelcomeBack">
+            <div class="TextWelcomeBack">Welcome Back</div>
+            <form id="loginForm">
+                <div class="EmailPlace">
+                    <label class="Email" for='email'>Email:</label>
+                    <input class="email" type='email' id='email' name='email' placeholder='Enter your email' required autocomplete='off'>
+                </div>
+                <div class="PasswordPlace">
+                    <label class="Password" for='password'>Password:</label>
+                    <input class="password" type='password' name='password' id='password' placeholder='Password' required>
+                </div>
+                <div class="ForgotPassword"><a href="../html/Support.html">Forgot Password</a></div>
+                <div class="LoginPlace">
+                    <button type="submit" class="LoginPlacebutton">Log in</button>
+                    <p class="HaveAccount">Don't have an account? <a href="../html/Signup.html">Signup</a></p>
+                </div>
+            </form>
+        </div>
+       
+        <div class="RigthAlternativeMEthods">
+            <div class="AlternativeMethods">Alternative Methods</div>
+            <img class="QR-Code" src="../images/Qr-Code.png" alt="QR-code">
+            <div class="Or">Or</div>
+            <div class="SecondloginGoogleInstagramFacebookRedit">
+                <div class="Google"><img class="Google" src="../images/Google.png" alt="Google"></div>
+                <div class="Instagram"><img class="Instagram" src="../images/Instagram.png" alt="Instagram"></div>
+                <div class="Facebook"><img class="Facebook" src="../images/Facebook.png" alt="Facebook"></div>
+                <div class="Redit"><img class="Redit" src="../images/Redit.png" alt="Reddit"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('loginForm').addEventListener('submit', function(event) {
+            event.preventDefault(); // Prevent the form from submitting the traditional way
+            
+            const email = document.getElementById('email').value;
+            const password = document.getElementById('password').value;
+
+            // Check if the provided credentials match the required ones
+            if (email === 'oleh.vlasiuk@gmail.com' && password === '1234567890') {
+                // Redirect to the store page
+                window.location.href = '../html/Store.html';
+            } else {
+                // Display an error message (you can customize this)
+                alert('Invalid email or password');
+            }
+        });
+    </script>
+</body>
+</html>

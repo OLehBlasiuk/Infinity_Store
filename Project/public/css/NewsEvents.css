@@ -1,0 +1,267 @@
+nav.Pag1 {
+    width: 1947px;
+height: 100px;
+top: 0px;
+left: -17px;
+gap: 0px;
+opacity: 0px;
+background: rgba(30, 30, 30, 1);
+position: absolute;
+}
+.InfinityStore{
+    width: 135px;
+height: 59px;
+top: 21px;
+left: 48px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.02px;
+text-align: left;
+
+position: absolute;
+background-color: rgba(30, 30, 30, 1);
+color: rgb(255, 255, 255);
+
+
+}
+.s-a{
+    width: 765px;
+height: 34px;
+top: -10px;
+left: 25px;
+gap: 0px;
+border-radius: 25px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+}
+.Store{
+    width: 53px;
+height: 26px;
+top: 36px;
+left: 281px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+color: rgba(154, 154, 154, 1);
+position: absolute;
+background-color: rgba(30, 30, 30, 1);
+
+}
+.Community{
+    position: absolute;
+    width: 116px;
+height: 26px;
+top: 36px;
+left: 399px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+color: rgba(154, 154, 154, 1);
+background-color: rgba(30, 30, 30, 1);
+}
+.NewsEvents{
+    width: 145px;
+height: 26px;
+top: 36px;
+left: 580px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+color: rgba(154, 154, 154, 1);
+background-color: rgba(30, 30, 30, 1);
+position: absolute;
+color: rgba(255, 255, 255, 1);
+}
+.Support{
+    width: 82px;
+height: 26px;
+top: 36px;
+left: 790px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+background-color: rgba(30, 30, 30, 1);
+text-align: left;
+
+color: rgba(154, 154, 154, 1);
+}
+.AboutUs{
+
+position: absolute;
+ width: 92px;
+height: 26px;
+top: 36px;
+left: 937px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+color: rgba(154, 154, 154, 1);
+background-color: rgba(30, 30, 30, 1);
+
+}
+.search{
+    background-color: rgba(30, 30, 30, 1);
+width: 260px;
+height: 40px;
+top: 36px;
+left: 1437px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+background: rgba(255, 255, 255, 1);
+
+}
+.lookfor{
+    width: 230px;
+height: 230px;
+top: -60px;
+left: 1622px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+.iconChangeLanguages{
+    width: 70px;
+    height: 70px;
+    top: 15px;
+    left: 1772px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+
+}
+.iconProfile{
+    width: 50px;
+    height: 50px;
+    top: 25px;
+    left: 1842px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+
+}
+a:link{
+
+    text-decoration: none;
+    
+}
+.showcase1{
+    width: 465px;
+    height: 275px;
+    top: 224px;
+    left: 243px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+}
+
+.showcase2{
+    width: 465px;
+    height: 275px;
+    top: 622px;
+    left: 243px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.showcase3{
+    width: 465px;
+    height: 275px;
+    top: 224px;
+    left: 1213px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.showcase4{
+width: 465px;
+height: 275px;
+top: 622px;
+left: 1213px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+
+}
+.hr1{
+    position: absolute;
+    width: 800px;
+height: 0px;
+top: 550px;
+left: 340px;
+gap: 0px;
+border: 3px 0px 0px 0px;
+opacity: 0px;
+transform: rotate(1.75turn);
+border: 3px solid rgba(0, 0, 0, 1)
+}
+.hr2{
+    position: absolute;
+    width: 800px;
+height: 0px;
+top: 550px;
+left: 775px;
+gap: 0px;
+border: 3px 0px 0px 0px;
+opacity: 0px;
+transform: rotate(1.75turn);
+border: 3px solid rgba(0, 0, 0, 1)
+}
+.NewPatchNotes{
+    width: 311px;
+height: 47px;
+top: 142px;
+left: 320px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 40px;
+font-weight: 500;
+line-height: 47.08px;
+text-align: center;
+color: rgba(0, 0, 0, 1);
+position: absolute;
+}
+.InfinityStoreNews{
+    width: 335px;
+    height: 47px;
+    top: 142px;
+    left: 1278px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 47.08px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+}

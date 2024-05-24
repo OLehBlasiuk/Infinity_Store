@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup</title>
+    <link rel="stylesheet" href="/style.css">
+    <style>
+        #password_error {
+            font-size: 0.8em;
+        }
+    </style>
+</head>
+<body>
+    <div class='fors-container'>
+        <h1 class="text-gradient">Welcome to Infinity</h1>
+        <form id="signup_form" action='/signup' method='post'>
+            <div class='form-group'>
+                <label for='name'>Username:</label>
+                <input type='text' id='name' name='username' placeholder='Enter your name' maxlength="32" required autocomplete='off' value="<%= typeof username !== 'undefined' ? username : '' %>">
+            </div>
+            <div class='form-group'>
+                <label for='email'>Email:</label>
+                <input type='email' id='email' name='email' placeholder='Enter your email' required autocomplete='off' value="<%= typeof email !== 'undefined' ? email : '' %>">
+            </div>
+            <div class='form-group'>
+                <label for='password'>Password:</label>
+                <input type='password' name='password' id='password' placeholder='Password' required>
+            </div>
+            <div class='form-group'>
+                <label for='confirm_password'>Confirm Password:</label>
+                <input type='password' name='confirm_password' id='confirm_password' placeholder='Confirm Password' required>
+                <span id="password_error" style="color: rgb(210, 22, 22);"><%= typeof error !== 'undefined' ? error : '' %></span>
+            </div>
+            <button type='submit' class='submit-btn' id="signup_button">Signup</button>
+        </form>
+        <p>Already have an account? <a href='/'>Login</a></p>
+    </div>
+</body>
+</html>

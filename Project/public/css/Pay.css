@@ -1,0 +1,191 @@
+.Orderlist{
+    width: 465px;
+height: 1080px;
+top: -13px;
+left: 1293px;
+gap: 0px;
+opacity: 0px;
+background: rgb(54, 53, 53);
+position: absolute;
+}
+.OrderSumma{
+    width: 287px;
+    height: 46px;
+    top: 12px;
+    left: 0px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 40px;
+font-weight: 400;
+line-height: 46.4px;
+text-align: left;
+color: rgb(255, 255, 255);
+position: absolute;
+}
+.CloseOrder{
+    width: 57px;
+height: 57px;
+top: 20px;
+left: 400px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+border: 1px solid rgba(30, 30, 30, 1)
+}
+.TotalDefaultPrice{
+    width: 45px;
+    height: 23px;
+    top: 494px;
+    left: 10px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 23.06px;
+    text-align: left;
+    position: absolute;
+}
+.TotalDiscount{
+    width: 81px;
+height: 23px;
+top: 527px;
+left: 10px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 23.06px;
+text-align: left;
+position: absolute;
+}
+.TotalDefaultPrice1{
+    width: 161px;
+    height: 23px;
+    top: 494px;
+    left: 360px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 23.06px;
+    text-align: left;
+    position: absolute;
+}
+.TotalDiscount1{
+    width: 161px;
+height: 23px;
+top: 527px;
+left: 360px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 23.06px;
+text-align: left;
+position: absolute;
+}
+.SeparateBetweenDefaultPriceAndTotal{
+    width: 442px;
+    height: 0px;
+    top: 566px;
+    left: 2px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid rgba(0, 0, 0, 1); 
+    position: absolute;
+}
+.TotalPrice{
+    width: 95px;
+    height: 24px;
+    top: 575px;
+    left:  10px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 23.06px;
+text-align: left;
+position: absolute;
+}
+.PoleOfbuyPoints{
+    width: 442px;
+height: 35px;
+top: 650px;
+left: 10px;
+gap: 0px;
+opacity: 0px;
+background: linear-gradient(90deg, #A542F3 -25.57%, #9EA03A 89.81%, #08C2DB 108.12%);
+position: absolute;
+}
+.BonusForBuyTEXT{
+    width: 437px;
+height: 23px;
+top: 5px;
+left: 10px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 400;
+line-height: 23.2px;
+text-align: center;
+color: rgba(0, 0, 0, 1);
+position: absolute;
+}
+.PoleOfHelp{
+    width: 215px;
+    height: 23px;
+    top: 729px;
+    left: 145px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+    
+
+}
+.Help{
+    font-family: Gilroy;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.2px;
+    text-align: center;
+    position: absolute;
+}
+a:link{
+
+    text-decoration: none;
+    
+}
+.BuyGame{
+    width: 442px;
+    height: 60px;
+    top: 837px;
+    left: 10px;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(30, 30, 30, 1);
+    position: absolute;
+}
+.TextOfButGame{
+    width: 156px;
+    height: 35px;
+    top: 10px;
+    left: 150px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 30px;
+font-weight: 400;
+line-height: 34.8px;
+text-align: center;
+color: rgba(255, 255, 255, 1);
+position: absolute;
+}

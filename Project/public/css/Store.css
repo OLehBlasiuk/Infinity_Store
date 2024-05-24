@@ -1,0 +1,1283 @@
+nav.Pag1 {
+    width: 1947px;
+height: 100px;
+top: 0px;
+left: -17px;
+gap: 0px;
+opacity: 0px;
+background: rgba(30, 30, 30, 1);
+position: absolute;
+}
+.InfinityStore{
+    width: 135px;
+height: 59px;
+top: 21px;
+left: 48px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.02px;
+text-align: left;
+
+position: absolute;
+background-color: rgba(30, 30, 30, 1);
+color: rgb(255, 255, 255);
+
+
+}
+.s-a{
+    width: 765px;
+height: 34px;
+top: -10px;
+left: 25px;
+gap: 0px;
+border-radius: 25px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+}
+.Store{
+    width: 53px;
+height: 26px;
+top: 36px;
+left: 281px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+color: rgba(154, 154, 154, 1);
+position: absolute;
+background-color: rgba(30, 30, 30, 1);
+color: rgba(255, 255, 255, 1);
+}
+.Community{
+    position: absolute;
+    width: 116px;
+height: 26px;
+top: 36px;
+left: 399px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+color: rgba(154, 154, 154, 1);
+background-color: rgba(30, 30, 30, 1);
+}
+.NewsEvents{
+    width: 145px;
+height: 26px;
+top: 36px;
+left: 580px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+color: rgba(154, 154, 154, 1);
+background-color: rgba(30, 30, 30, 1);
+position: absolute;
+}
+.Support{
+    width: 82px;
+height: 26px;
+top: 36px;
+left: 790px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+background-color: rgba(30, 30, 30, 1);
+text-align: left;
+color: rgba(154, 154, 154, 1);
+
+}
+.AboutUs{
+
+position: absolute;
+ width: 92px;
+height: 26px;
+top: 36px;
+left: 937px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+color: rgba(154, 154, 154, 1);
+background-color: rgba(30, 30, 30, 1);
+
+}
+.search{
+    background-color: rgba(30, 30, 30, 1);
+width: 260px;
+height: 40px;
+top: 36px;
+left: 1437px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+background: rgba(255, 255, 255, 1);
+
+}
+.lookfor{
+    width: 230px;
+height: 230px;
+top: -60px;
+left: 1622px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+.iconChangeLanguages{
+    width: 70px;
+    height: 70px;
+    top: 15px;
+    left: 1772px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+
+}
+.iconProfile{
+    width: 50px;
+    height: 50px;
+    top: 25px;
+    left: 1842px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+
+}
+a:link{
+
+  text-decoration: none;
+  
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+
+.Screen1 {
+    width: 1273px;
+height: 700px;
+top: 240px;
+left: 162px;
+gap: 0px;
+border-radius: 25px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.Screen2 {
+
+    
+    width: 303px;
+height: 150px;
+top: 605px;
+left: 1455px;
+gap: 0px;
+border-radius: 25px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+}
+.Screen3{
+    width: 303px;
+    height: 150px;
+    position: absolute;
+    top: 249px;
+    left: 1455px;
+    gap: 0px;
+    border-radius: 25px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+.Screen4{
+    width: 303px;
+    height: 150px;
+    top: 429px;
+    left: 1455px;
+    gap: 0px;
+    border-radius: 25px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.Screen5{
+width: 303px;
+height: 150px;
+top: 781px;
+left: 1455px;
+gap: 0px;
+border-radius: 25px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+}
+.GameLastRelease1{
+    width: 303px;
+height: 400px;
+top: 1168px;
+left: 162px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+}
+.GameLastRelease2{
+    position: absolute;
+    width: 303px;
+    height: 400px;
+    top: 1168px;
+    left: 485px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+.GameLastRelease3{
+    position: absolute;
+    width: 303px;
+    height: 400px;
+    top: 1168px;
+    left: 809px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+
+.GameLastRelease4{
+position: absolute;
+width: 303px;
+height: 400px;
+top: 1168px;
+left: 1133px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+.GameLastRelease5{
+    position: absolute;
+    width: 303px;
+height: 400px;
+top: 1168px;
+left: 1456px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+
+}
+.Last_Release{
+    width: 232px;
+    height: 46px;
+    top: 1096px;
+    left: 162px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 40px;
+font-weight: 400;
+line-height: 46.4px;
+text-align: left;
+
+position: absolute;
+    
+}
+.Most_Popular_GAmes{
+    width: 381px;
+    height: 46px;
+    top: 1622px;
+    left: 162px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 40px;
+font-weight: 400;
+line-height: 46.4px;
+text-align: left;
+position: absolute;
+}
+.GameMostPopularGames1{
+    width: 303px;
+    height: 400px;
+    top: 1694px;
+    left: 162px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.GameMostPopularGames2{
+    width: 303px;
+    height: 400px;
+    top: 1694px;
+    left: 485px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.GameMostPopularGames3{
+    width: 303px;
+    height: 400px;
+    top: 1694px;
+    left: 809px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.GameMostPopularGames4{
+    width: 303px;
+    height: 400px;
+    top: 1694px;
+    left: 1133px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.GameMostPopularGames5{
+    width: 303px;
+    height: 400px;
+    top: 1694px;
+    left: 1457px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.DiscountedGames{
+    width: 344px;
+    height: 46px;
+    top: 2139px;
+    left: 162px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 40px;
+font-weight: 400;
+line-height: 46.4px;
+text-align: left;
+position: absolute;
+    
+}
+.GameDiscountedGames1{
+    width: 303px;
+    height: 400px;
+    top: 2220px;
+    left: 162px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.GameDiscountedGames2{
+    width: 303px;
+    height: 400px;
+    top: 2220px;
+    left: 485px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.GameDiscountedGames3{
+    width: 303px;
+    height: 400px;
+    top: 2220px;
+    left: 809px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.GameDiscountedGames4{
+    width: 303px;
+    height: 400px;
+    top: 2220px;
+    left: 1133px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.GameDiscountedGames5{
+    width: 303px;
+    height: 400px;
+    top: 2220px;
+    left: 1457px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.FreeGames{
+    width: 221px;
+    height: 46px;
+    top: 2675px;
+    left: 162px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 40px;
+font-weight: 400;
+line-height: 46.4px;
+text-align: left;
+position: absolute;
+}
+.GameFreeGames1{
+    width: 303px;
+    height: 400px;
+    top: 2746px;
+    left: 162px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.GameFreeGames2{
+    width: 303px;
+    height: 400px;
+    top: 2746px;
+    left: 485px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.GameFreeGames3{
+    width: 303px;
+    height: 400px;
+    top: 2746px;
+    left: 809px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.GameFreeGames4{
+    width: 303px;
+    height: 400px;
+    top: 2746px;
+    left: 1133px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.GameFreeGames5{
+    width: 303px;
+    height: 400px;
+    top: 2746px;
+    left: 1457px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+
+.GameOpenBetaTest1{
+    width: 303px;
+    height: 396px;
+    top: 3272px;
+    left: 162px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.GameOpenBetaTest2{
+    width: 303px;
+height: 396px;
+top: 3272px;
+left: 485px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+
+}
+.GameOpenBetaTest3{
+    width: 303px;
+    height: 396px;
+    top: 3272px;
+    left: 809px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+
+}
+.GameOpenBetaTest4{
+    width: 303px;
+    height: 396px;
+    top: 3272px;
+    left: 1133px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.GameOpenBetaTest5{
+    width: 303px;
+    height: 396px;
+    top: 3272px;
+    left: 1457px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.Most_Rated{
+    font-family: Gilroy;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 46.4px;
+    text-align: left;
+    width: 210px;
+    height: 46px;
+    top: 3720px;
+    left: 162px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+    color: rgba(30, 30, 30, 1);
+}
+.GameMostRated1{
+    width: 303px;
+height: 396px;
+top: 3794px;
+left: 162px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+.GameMostRated2{
+    width: 303px;
+height: 396px;
+top: 3794px;
+left: 485px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+.GameMostRated3{
+width: 303px;
+height: 396px;
+top: 3794px;
+left: 809px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+.GameMostRated4{
+    width: 303px;
+    height: 396px;
+    top: 3794px;
+    left: 1133px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.GameMostRated5{
+    width: 303px;
+height: 396px;
+top: 3794px;
+left: 1457px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+.GAMENAME1{
+    width: 271px;
+height: 47px; 
+
+line-height: 1.2;
+top: 1565px;
+left: 184px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+position: absolute;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2;
+}
+.GAMENAME2{
+ width: 271px;
+height: 47px; 
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2;
+top: 1565px;
+left: 506px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+position: absolute;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2;
+}
+.GAMENAME3{
+    width: 271px;
+   height: 47px; 
+   font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2;
+
+   top: 1565px;
+   left: 830px;
+   gap: 0px;
+   opacity: 0px;
+   font-family: Gilroy;
+   font-size: 20px;
+   font-weight: 300;
+   line-height: 46.12px;
+   text-align: left;
+   position: absolute;
+   font-family: Gilroy;
+   font-size: 20px;
+   font-weight: 300;
+   line-height: 46.12px;
+   text-align: left;
+   line-height: 1.2;
+   }.GAMENAME4{
+    width: 271px;
+   height: 47px; 
+   
+   line-height: 1.2;
+   top: 1565px;
+   left: 1154px;
+   gap: 0px;
+   opacity: 0px;
+   font-family: Gilroy;
+   font-size: 20px;
+   font-weight: 300;
+   line-height: 46.12px;
+   text-align: left;
+   position: absolute;
+   font-family: Gilroy;
+   font-size: 20px;
+   font-weight: 300;
+   line-height: 46.12px;
+   text-align: left;
+   line-height: 1.2;
+   }.GAMENAME5{
+    width: 271px;
+   height: 47px; 
+   line-height: 1.2;
+   
+   top: 1565px;
+   left: 1477px;
+   gap: 0px;
+   opacity: 0px;
+   font-family: Gilroy;
+   font-size: 20px;
+   font-weight: 300;
+   line-height: 46.12px;
+   text-align: left;
+   position: absolute;
+   font-family: Gilroy;
+   font-size: 20px;
+   font-weight: 300;
+   line-height: 46.12px;
+   text-align: left;
+   line-height: 1.2;
+   }
+
+
+.OpenBetaTest{
+    width: 279px;
+height: 46px;
+top: 3195px;
+left: 162px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 40px;
+font-weight: 400;
+line-height: 46.4px;
+text-align: left;
+position: absolute;
+   }
+.GAMENAME6{
+    width: 271px;
+    height: 47px;
+    top: 2095px;
+    left: 184px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+position: absolute;
+line-height: 1.2;
+}
+.GAMENAME7{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 2095px;
+left: 508px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2;
+}
+.GAMENAME8{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 2095px;
+left: 832px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2
+}
+.GAMENAME9{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 2095px;
+left: 1156px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2
+}
+.GAMENAME10{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 2095px;
+left: 1480px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2
+}
+.GAMENAME11{
+    width: 271px;
+    height: 47px;
+    top: 2630px;
+    left: 184px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+position: absolute;
+line-height: 1.2
+}
+.GAMENAME12{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 2630px;
+left: 508px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2
+}
+.GAMENAME13{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 2630px;
+left: 832px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2
+}
+.GAMENAME14{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 2630px;
+left: 1156px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2
+}
+.GAMENAME15{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 2630px;
+left: 1480px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2
+}
+.GAMENAME16{
+    width: 271px;
+    height: 47px;
+    top: 3155px;
+    left: 184px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+position: absolute;
+line-height: 1.2
+}
+.GAMENAME17{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 3155px;
+left: 508px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2
+}
+.GAMENAME18{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 3155px;
+left: 832px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2
+}
+.GAMENAME19{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 3155px;
+left: 1156px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2;
+}
+.GAMENAME20{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 3155px;
+left: 1480px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2;
+}
+.GAMENAME21{
+    width: 271px;
+    height: 47px;
+    top: 3680px;
+    left: 184px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+position: absolute;
+line-height: 1.2;
+}
+.GAMENAME22{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 3680px;
+left: 508px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2;
+}
+.GAMENAME23{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 3680px;
+left: 832px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2;
+}
+.GAMENAME24{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 3680px;
+left: 1156px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2;
+}
+.GAMENAME25{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 3680px;
+left: 1480px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2;
+}
+.GAMENAME26{
+    width: 271px;
+    height: 47px;
+    top: 4205px;
+    left: 184px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+position: absolute;
+line-height: 1.2;
+}
+.GAMENAME27{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 4205px;
+left: 508px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2;
+}
+.GAMENAME28{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 4205px;
+left: 832px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2;
+}
+.GAMENAME29{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 4205px;
+left: 1156px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2;
+}
+.GAMENAME30{
+    position: absolute;
+    width: 302px;
+height: 92px;
+top: 4205px;
+left: 1480px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+line-height: 1.2;
+}
+
+.PriceDiscount{
+    line-height: 1.5;
+   
+}
+.DefaultPrice{
+    line-height: 1.5;
+    
+}
+.IStore{
+    width: 1920px;
+    height: 800px;
+top: 4300px;
+left: 0px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 50px;
+font-weight: 400;
+line-height: 58px;
+text-align: center;
+position:absolute;
+color: rgb(255, 255, 255);
+background: rgba(30, 30, 30, 1);
+line-height: 2.5
+}
+
+
+.Store2{
+    width: 250px;
+    height: 80px;
+    top: 4400px;
+    left: 50px;
+    gap: 0px;
+    opacity: 0px;
+    color: rgba(255, 255, 255, 1);
+    font-family: Gilroy;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 40.6px;
+    text-align: center;
+    position:absolute;
+ 
+    line-height: 1.4
+    
+}
+.Community2{
+    width: 250px;
+    height: 80px;
+    top: 4400px;
+    left: 420px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 35px;
+font-weight: 400;
+line-height: 40.6px;
+text-align: center;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+line-height: 1.4
+}
+.NewsEvents2{
+    width: 350px;
+    height: 80px;
+    top: 4400px;
+    left: 750px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 35px;
+font-weight: 400;
+line-height: 40.6px;
+text-align: center;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+line-height: 1.4
+}
+.Support2{
+    width: 250px;
+    height: 80px;
+    top: 4400px;
+    left: 1200px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 35px;
+font-weight: 400;
+line-height: 40.6px;
+text-align: center;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+line-height: 1.4;
+
+
+}
+
+.AboutUs2{
+    width: 350px;
+    height: 160px;
+    top: 4400px;
+    left: 1500px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 35px;
+font-weight: 400;
+line-height: 40.6px;
+text-align: center;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+line-height: 1.4
+}
+
+.Discord{
+    color: rgba(255, 255, 255, 1);
+}
+.Instagram{
+    color: rgba(255, 255, 255, 1);
+}
+.Gmail{
+    color: rgba(255, 255, 255, 1);
+}
+.YouTube{
+    color: rgba(255, 255, 255, 1);
+}
+.TikTok{
+    color: rgba(255, 255, 255, 1);
+}
+.AboutUs3{
+    color: rgb(221, 138, 236);
+}
+.Support3{
+    color: rgb(221, 138, 236);
+}
+.NewsEvents3{
+    color: rgb(221, 138, 236);
+}
+.Community3{
+    color: rgb(221, 138, 236);
+}
+.Store3{
+    color: rgb(221, 138, 236);
+}
+.LastRelease{
+    color: rgba(255, 255, 255, 1);
+}
+.MostPopilar{
+    color: rgba(255, 255, 255, 1);;
+}
+.Discounted{
+    color: rgba(255, 255, 255, 1);}
+    
+.Free{color: rgba(255, 255, 255, 1);
+}
+.OpenBeta{
+    color: rgba(255, 255, 255, 1);
+}
+.MostRated{
+    color: rgba(255, 255, 255, 1); 
+}
+.ColorLinks{
+    color: rgba(255, 255, 255, 1);
+}
+
+
+

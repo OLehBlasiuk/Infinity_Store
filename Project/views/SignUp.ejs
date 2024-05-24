@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign UP</title>
+    <link rel="stylesheet" href="../css/SignUp.css">
+    <style>
+        #password_error {
+            font-size: 0.8em;
+        }
+    </style>
+</head>
+<body>
+    <div class="Page">
+        <header>
+            <div class="MainMenu">
+                <header>
+                    <nav class="Pag1">
+                        <ul>
+                            <div><a class="InfinityStore">INFINITY STORE</a></div>
+                            <p class="s-a"><a class="Store" href="/html/Store.html">Store</a></p>
+                            <p class="s-a"><a class="Community" href="/html/Community.html">Community</a></p>
+                            <p class="s-a"><a class="NewsEvents" href="/html/NewsEvents.html">News & Events</a></p>
+                            <p class="s-a"><a class="Support" href="/html/Support.html">Support</a></p>
+                            <p class="s-a"><a class="AboutUs" href="/html/About Us.html">About Us</a></p>
+                            <p>
+                                <label for="site-search"></label>
+                                <input class="search" type="search" id="site-search" name="q">
+                                <img class="lookfor" src="/images/Lookfor.png" alt="Look for">
+                            </p>
+                            <p>
+                                <span id="ChangeLanguages" class="ChangeLanguages">
+                                    <img class="iconChangeLanguages" src="/images/changeLanguage.png" alt="Change Languages">
+                                </span>
+                            </p>
+                            <a href="/html/Profile.html">
+                                <span id="Profile" class="Profile">
+                                    <img class="iconProfile" src="/images/Profile.png" alt="Profile">
+                                </span>
+                            </a>
+                        </ul>
+                    </nav>
+                </header>
+            </div>
+        </header>
+    </div>
+
+    <div class='fors-container'>
+        <h1 class="text-gradient">Welcome to Infinity</h1>
+        <form id="signup_form" action='/signup' method='post'>
+            <div class='form-group'>
+                <label for='name'>Username:</label>
+                <input type='text' id='name' name='username' placeholder='Enter your name' maxlength="32" required autocomplete='off' value="<%= typeof username !== 'undefined' ? username : '' %>">
+            </div>
+            <div class='form-group'>
+                <label for='email'>Email:</label>
+                <input type='email' id='email' name='email' placeholder='Enter your email' required autocomplete='off' value="<%= typeof email !== 'undefined' ? email : '' %>">
+            </div>
+            <div class='form-group'>
+                <label for='password'>Password:</label>
+                <input type='password' name='password' id='password' placeholder='Password' required>
+            </div>
+            <div class='form-group'>
+                <label for='confirm_password'>Confirm Password:</label>
+                <input type='password' name='confirm_password' id='confirm_password' placeholder='Confirm Password' required>
+                <span id="password_error" style="color: rgb(210, 22, 22);"><%= typeof error !== 'undefined' ? error : '' %></span>
+            </div>
+            <button type='submit' class='submit-btn' id="signup_button">Signup</button>
+        </form>
+        <p>Already have an account? <a href='/'>Login</a></p>
+    </div>
+</body>
+</html>

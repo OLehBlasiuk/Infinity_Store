@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page of game</title>
+    <link rel="stylesheet" href="../public/storehtml/About BIGFOOT.html">
+    <link rel="stylesheet" href="C:\Users\admin\Desktop\InfinityStore\Items\buyGames\Buy.css">
+</head>
+<body>
+    <div class="MainMenu">
+        <header>
+            <nav class="Pag1">
+                <ul>
+                    <p><a class="InfinityStore">INFINITY STORE</a></p>
+                    <p class="s-a"><a class="Store" href="../html/Store.html">Store</a></p>
+                    <p class="s-a"><a class="Community" href="../html/Community.Html">Community</a></p>
+                    <p class="s-a"><a class="NewsEvents" href="../html/NewsEvents.html">News & Events</a></p>
+                    <p class="s-a"><a class="Support" href="../html/Support.html">Support</a></p>
+                    <p class="s-a"><a class="AboutUs" href="../public/html/About Us.Html">About Us</a></p>
+                    <p>
+                        <label for="site-search"></label>
+                        <input class="search" type="search" id="site-search" name="q" />
+                        <img class="lookfor" src="../Lookfor.png" alt="Look for">
+                    </p>
+                    <p>
+                        <span id="ChangeLanguages" class="ChangeLanguages"><img class="iconChangeLanguages " src="../changeLanguage.png" icon Change Languages></span>
+                    </p>
+                    <a href="../Profile.html" > 
+                        <span id="Profile" class="Profile"><img class="iconProfile" src="../Profile.png" alt="icon Profile"></span>
+                    </a>
+                </ul>
+            </nav>
+        </header>
+    </div>
+
+    <h1 id="NAMEGAME">BIGFOOT</h1>
+    <img class="GameImage" src="C:\Users\admin\Desktop\Css\bigfoot.jpg" alt="BIGFOOT Game">
+    
+    <div class="download-container">
+        <button id="downloadContent" class="Buy">Coming Soon</button>
+    </div>
+
+    <div class="GameDescription">
+        <p class="text">BIGFOOT - це захоплююча гра про виживання, де гравці вирушають у дику природу, щоб відстежити неуловиму істоту, відому як Бігфут. З реалістичною графікою та напруженою геймплейною механікою гравцям доведеться спільно працювати, щоб розкрити таємниці лісу, уникаючи небезпечних хижаків.</p>
+    </div>
+
+    <div class="SystemRequirements">
+        <h2>System Requirements</h2>
+        <ol class="RequirementsList">
+            <li class="Minimum">Minimum 
+                <ol>
+                    <li class="Oc">OS: Windows 7/8/10 (64-bit)</li>
+                    <li class="Processor">Processor: Intel Core i5-4460 or AMD FX-6300</li>
+                    <li class="Memory">Memory: 8 GB RAM</li>
+                    <li class="Graphics">Graphics: NVIDIA GeForce GTX 760 or AMD Radeon R7 260x</li>
+                    <li class="Storage">Storage: 10 GB available space</li>
+                    <li class="AdditionalNotes">Additional Notes: Requires a 64-bit processor and operating system</li>      
+                </ol>
+            </li>
+            
+            <li class="Recommended">Recommended
+                <ol>
+                    <li class="Oc">OS: Windows 10 (64-bit)</li>
+                    <li class="Processor">Processor: Intel Core i7-4790 or AMD Ryzen 5 1600</li>
+                    <li class="Memory">Memory: 16 GB RAM</li>
+                    <li class="Graphics">Graphics: NVIDIA GeForce GTX 1070 or AMD Radeon RX Vega 56</li>
+                    <li class="Storage">Storage: 10 GB available space</li>
+                    <li class="AdditionalNotes">Additional Notes: Requires a 64-bit processor and operating system</li>      
+                </ol>
+            </li>
+        </ol>
+    </div>
+
+    <div class="ReviewsFast">Fast Reviews</div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const downloadContent = document.getElementById('downloadContent');
+            const gameFiles = JSON.parse(localStorage.getItem('gameFiles'));
+        
+            if (gameFiles && gameFiles.length > 0) {
+                gameFiles.forEach(file => {
+                    const fileLink = document.createElement('a');
+                    const fileBlob = new Blob([file.content], { type: 'text/plain' });
+                    const fileURL = URL.createObjectURL(fileBlob);
+                    
+                    fileLink.href = fileURL;
+                    fileLink.download = file.name;
+                    fileLink.textContent = `Download ${file.name}`;
+                    fileLink.style.display = 'block';
+                    fileLink.style.margin = '10px 0';
+                    
+                    downloadContent.appendChild(fileLink);
+                });
+            } else {
+                downloadContent.innerText = 'No files to download. Please upload files on the first page.';
+            }
+        });
+    </script>
+</body>
+</html>

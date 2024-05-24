@@ -1,0 +1,720 @@
+nav.Pag1 {
+    width: 1947px;
+height: 100px;
+top: 0px;
+left: -17px;
+gap: 0px;
+opacity: 0px;
+background: rgba(30, 30, 30, 1);
+position: absolute;
+}
+.InfinityStore{
+    width: 135px;
+height: 59px;
+top: 21px;
+left: 48px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.02px;
+text-align: left;
+
+position: absolute;
+background-color: rgba(30, 30, 30, 1);
+color: rgb(255, 255, 255);
+
+
+}
+.s-a{
+    width: 765px;
+height: 34px;
+top: -10px;
+left: 25px;
+gap: 0px;
+border-radius: 25px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+}
+.Store{
+    width: 53px;
+height: 26px;
+top: 36px;
+left: 281px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+
+position: absolute;
+background-color: rgba(30, 30, 30, 1);
+color: rgba(255, 255, 255, 1);
+
+}
+.Community{
+    position: absolute;
+    width: 116px;
+height: 26px;
+top: 36px;
+left: 399px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+color: rgba(154, 154, 154, 1);
+background-color: rgba(30, 30, 30, 1);
+}
+.NewsEvents{
+    width: 145px;
+height: 26px;
+top: 36px;
+left: 580px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+color: rgba(154, 154, 154, 1);
+background-color: rgba(30, 30, 30, 1);
+position: absolute;
+}
+.Support{
+    width: 82px;
+height: 26px;
+top: 36px;
+left: 790px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+background-color: rgba(30, 30, 30, 1);
+text-align: left;
+color: rgba(154, 154, 154, 1);
+
+}
+.AboutUs{
+
+position: absolute;
+ width: 92px;
+height: 26px;
+top: 36px;
+left: 937px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+color: rgba(154, 154, 154, 1);
+background-color: rgba(30, 30, 30, 1);
+
+}
+.search{
+    background-color: rgba(30, 30, 30, 1);
+width: 260px;
+height: 40px;
+top: 36px;
+left: 1437px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+background: rgba(255, 255, 255, 1);
+
+}
+.lookfor{
+    width: 230px;
+height: 230px;
+top: -60px;
+left: 1622px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+.iconChangeLanguages{
+    width: 70px;
+    height: 70px;
+    top: 15px;
+    left: 1772px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+
+}
+.iconProfile{
+    width: 50px;
+    height: 50px;
+    top: 25px;
+    left: 1842px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+
+}
+a:link{
+
+    text-decoration: none;
+    
+}
+.Screen1{
+    width: 1150px;
+height: 650px;
+top: 256px;
+left: 102px;
+gap: 0px;
+opacity: 0px;
+
+position: absolute;
+
+}
+
+.Screen2{
+    width: 250px;
+    height: 150px;
+    top: 930px;
+    left: 133px;
+    gap: 0px;
+    opacity: 0px;
+    
+position: absolute;
+}
+.Screen3{
+    width: 250px;
+height: 150px;
+top: 930px;
+left: 412px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+.Screen4{
+    width: 250px;
+height: 147px;
+top: 930px;
+left: 691px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+.Screen5{
+    width: 250px;
+height: 150px;
+top: 930px;
+left: 970px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+button.Buy{
+    width: 525px;
+    height: 90px;
+    top: 474px;
+    left: 1339px;
+    gap: 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    border: 2px solid rgba(255, 255, 255, 1);
+    position: absolute;
+    background-color: rgba(30, 30, 30, 1);
+    color: rgb(94, 94, 94);
+    font-family: Gilroy;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 58px;
+    text-align: center;
+    
+
+}
+
+a.Developer{
+    width: 142px;
+    height: 35px;
+    top: 648px;
+    left: 1377px;
+    gap: 0px;
+    opacity: 0.8px;
+    font-family: Gilroy;
+font-size: 30px;
+font-weight: 400;
+line-height: 34.8px;
+text-align: left;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+}
+a.Publisher{
+    width: 124px;
+    height: 35px;
+    top: 704px;
+    left: 1377px;
+    gap: 0px;
+    opacity: 0.8px;
+    font-family: Gilroy;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 34.8px;
+    text-align: left;
+    position:absolute;
+    color: rgba(255, 255, 255, 1);
+}
+a.Available{
+    width: 127px;
+    height: 35px;
+    top: 774px;
+    left: 1377px;
+    gap: 0px;
+    opacity: 0.8px;
+    font-family: Gilroy;
+font-size: 30px;
+font-weight: 400;
+line-height: 34.8px;
+text-align: left;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+}
+a.Platform{
+    width: 116px;
+    height: 35px;
+    top: 843px;
+    left: 1377px;
+    gap: 0px;
+    opacity: 0.8px;
+    font-family: Gilroy;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 34.8px;
+    text-align: left;
+    position:absolute;
+    color: rgba(255, 255, 255, 1);
+}
+.NameofDeveloper{
+    width: 201px;
+    height: 37px;
+    top: 646px;
+    left: 1602px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 30px;
+font-weight: 400;
+line-height: 34.8px;
+text-align: left;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+}
+.NameofPublisher{
+    font-family: Gilroy;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 34.8px;
+    text-align: left;
+    width: 158px;
+height: 35px;
+top: 709px;
+left: 1602px;
+gap: 0px;
+opacity: 0px;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+}
+.GameAvailable{
+    font-family: Gilroy;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 34.8px;
+    text-align: left;
+    width: 187px;
+    height: 35px;
+    top: 774px;
+    left: 1602px;
+    gap: 0px;
+    opacity: 0px;
+    position:absolute;  
+    color: rgba(255, 255, 255, 1);   
+}
+.GamePlatform{
+    font-family: Gilroy;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 34.8px;
+    text-align: left;
+    width: 125px;
+height: 35px;
+top: 843px;
+left: 1602px;
+gap: 0px;
+opacity: 0px;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+}
+
+
+.Share{
+    width: 200px;
+    height: 60px;
+    top: 917px;
+    left: 1377px;
+    gap: 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 40px;
+font-weight: 400;
+line-height: 46.4px;
+text-align: center;
+position:absolute;
+
+}
+.Report{
+    width: 200px;
+    height: 60px;
+    top: 917px;
+    left: 1626px;
+    gap: 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 40px;
+font-weight: 400;
+line-height: 46.4px;
+text-align: center;
+position:absolute;
+
+background-color: rgba(255, 255, 255, 1);
+}
+.AboutTheGame{width: 377px;
+    height: 58px;
+    top: 1249px;
+    left: 133px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 50px;
+font-weight: 400;
+line-height: 58px;
+text-align: left;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+    }
+p.text{
+    width: 1150px;
+    height: 966px;
+    top: 1351px;
+    left: 102px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 40px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+}
+.ReviewsFast{
+    width: 236px;
+height: 46px;
+top: 1261px;
+left: 1507px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 40px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: center;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+}
+.NameStore{
+    width: 253px;
+    height: 92px;
+    top: 1334px;
+    left: 1496px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 40px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: center;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+}
+.InfinityReviews{
+    width: 82px;
+    height: 46px;
+    top: 1443px;
+    left: 1567px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 40px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: center;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+}
+.UserReviews{
+    width: 255px;
+    height: 46px;
+    top: 1542px;
+    left: 1507px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 40px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: center;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+}
+.SystemRequirements{
+    width: 393px;
+    height: 46px;
+    top: 2468px;
+    left: 131px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 46.12px;
+    text-align: left;
+        
+    color: rgba(255, 255, 255, 1);
+position:absolute;
+}
+
+.SystemRequirementsMinMax{
+    width: 1675px;
+height: 800px;
+top: 2528px;
+left: 102px;
+gap: 0px;
+opacity: 0px;
+background: rgba(37, 37, 37, 1);
+position:absolute;
+color: rgba(255, 255, 255, 1);
+}
+.Minimum{
+    width: 832px;
+height: 690px;
+top: 45px;
+left: 80px;
+gap: 0px;
+opacity: 0px;
+line-height: 0.9 em;
+position:absolute;
+font-family: Gilroy;
+font-size: 30px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+color:rgb(204, 117, 210);
+}
+.Recomended{
+    line-height: 0.9 em;
+    width: 781px;
+    height: 690px;
+    top: 45px;
+    left: 910px;
+    gap: 0px;
+    opacity: 0px;
+    color:rgb(204, 117, 210);
+    position:absolute;
+    font-family: Gilroy;
+font-size: 30px;
+font-weight: 300;
+line-height: 46.12px;
+text-align: left;
+}
+.Oc{
+    line-height: 2.5;
+    color: rgba(255, 255, 255, 1);
+}
+.Processor{
+    line-height: 2.5;
+    color: rgba(255, 255, 255, 1);
+}
+.Memory{
+    line-height: 2.5;
+    color: rgba(255, 255, 255, 1);
+}
+.Graphics{
+    line-height: 2.5;
+    color: rgba(255, 255, 255, 1);
+}
+.Storage{
+    line-height: 2.5;
+    color: rgba(255, 255, 255, 1);
+}
+.AdditionalNotes{
+    line-height: 2.5;
+    color: rgba(255, 255, 255, 1);
+}
+.IStore{
+    width: 1920px;
+    height: 800px;
+top: 3300px;
+left: 0px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 50px;
+font-weight: 400;
+line-height: 58px;
+text-align: center;
+position:absolute;
+color: rgb(203, 171, 210);
+background: rgba(30, 30, 30, 1);
+line-height: 2.5
+}
+
+
+.Store2{
+    width: 250px;
+    height: 80px;
+    top: 3411px;
+    left: 50px;
+    gap: 0px;
+    opacity: 0px;
+    color: rgba(255, 255, 255, 1);
+    font-family: Gilroy;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 40.6px;
+    text-align: center;
+    position:absolute;
+ 
+    line-height: 1.4
+}
+.Community2{
+    width: 250px;
+    height: 80px;
+    top: 3411px;
+    left: 420px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 35px;
+font-weight: 400;
+line-height: 40.6px;
+text-align: center;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+line-height: 1.4
+}
+.NewsEvents2{
+    width: 350px;
+    height: 80px;
+    top: 3411px;
+    left: 770px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 35px;
+font-weight: 400;
+line-height: 40.6px;
+text-align: center;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+line-height: 1.4
+}
+.Support2{
+    width: 250px;
+    height: 80px;
+    top: 3411px;
+    left: 1200px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 35px;
+font-weight: 400;
+line-height: 40.6px;
+text-align: center;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+line-height: 1.4;
+
+
+}
+
+.AboutUs2{
+    width: 350px;
+    height: 160px;
+    top: 3411px;
+    left: 1500px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 35px;
+font-weight: 400;
+line-height: 40.6px;
+text-align: center;
+position:absolute;
+color: rgba(255, 255, 255, 1);
+line-height: 1.4
+}
+
+
+body{
+    background: rgb(33, 33, 30);
+
+
+}
+
+.Discord{
+    color: rgba(255, 255, 255, 1);
+}
+.Instagram{
+    color: rgba(255, 255, 255, 1);
+}
+.Gmail{
+    color: rgba(255, 255, 255, 1);
+}
+.YouTube{
+    color: rgba(255, 255, 255, 1);
+}
+.TikTok{
+    color: rgba(255, 255, 255, 1);
+}
+.AboutUs3{
+    color: rgb(221, 138, 236);
+}
+.Support3{
+    color: rgb(221, 138, 236);
+}
+.NewsEvents3{
+    color: rgb(221, 138, 236);
+}
+.Community3{
+    color: rgb(221, 138, 236);
+}
+.Store3{
+    color: rgb(221, 138, 236);
+}
+.ColorLinks{
+    color: rgba(255, 255, 255, 1);
+}
+.colortopyc{
+    color: rgb(221, 138, 236); 
+}

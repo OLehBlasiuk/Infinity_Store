@@ -1,0 +1,226 @@
+
+nav {
+    width: 1947px;
+height: 100px;
+top: 0px;
+left: -17px;
+gap: 0px;
+opacity: 0px;
+background: rgba(30, 30, 30, 1);
+position: absolute;
+}
+.InfinityStore{
+    width: 135px;
+height: 59px;
+top: 21px;
+left: 48px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.02px;
+text-align: left;
+background: rgba(255, 255, 255, 1);
+position: absolute;
+background-color: rgba(30, 30, 30, 1);
+
+}
+.s-a{
+    width: 765px;
+height: 34px;
+top: -10px;
+left: 25px;
+gap: 0px;
+border-radius: 25px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+}
+.Store{
+    width: 53px;
+height: 26px;
+top: 36px;
+left: 281px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+background: rgba(154, 154, 154, 1);
+position: absolute;
+background-color: rgba(30, 30, 30, 1);
+}
+.Community{
+    position: absolute;
+    width: 116px;
+height: 26px;
+top: 36px;
+left: 399px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+background: rgba(154, 154, 154, 1);
+background-color: rgba(30, 30, 30, 1);
+}
+.NewsEvents{
+    width: 145px;
+height: 26px;
+top: 36px;
+left: 580px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+background: rgba(154, 154, 154, 1);
+background-color: rgba(30, 30, 30, 1);
+position: absolute;
+}
+.Support{
+    width: 82px;
+height: 26px;
+top: 36px;
+left: 790px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+background-color: rgba(30, 30, 30, 1);
+text-align: left;
+
+}
+.AboutUs{
+position: absolute;
+ width: 92px;
+height: 26px;
+top: 36px;
+left: 937px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+background: rgba(255, 255, 255, 1);
+background-color: rgba(30, 30, 30, 1);
+
+}
+.search{
+    background-color: rgba(30, 30, 30, 1);
+width: 260px;
+height: 40px;
+top: 36px;
+left: 1437px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+background: rgba(255, 255, 255, 1);
+
+}
+.lookfor{
+    width: 230px;
+height: 230px;
+top: -60px;
+left: 1622px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+.iconChangeLanguages{
+    width: 70px;
+    height: 70px;
+    top: 15px;
+    left: 1772px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+
+}
+.iconProfile{
+    width: 50px;
+    height: 50px;
+    top: 25px;
+    left: 1842px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+
+}
+.Welcome-inf{
+    width: 618px;
+height: 294px;
+top: 459px;
+left: 674px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 95px;
+font-weight: 700;
+line-height: 132.99px;
+text-align: left;
+position: absolute;
+font-family: Gilroy;
+text-align: center;
+
+
+
+}
+.Welcome-first{
+    width: 431px;
+    height: 24px;
+    top: 772px;
+    left: 778px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+font-size: 21px;
+font-weight: 300;
+line-height: 24.21px;
+text-align: left;
+
+position: absolute;
+
+
+}
+.Welcome-to{
+    width: 251px;
+height: 52px;
+top: 455px;
+left: 858px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+font-family: Gilroy;
+font-size: 45px;
+font-weight: 300;
+line-height: 51.88px;
+text-align: left;
+
+
+}
+Section{
+    width: 1244px;
+height: 732px;
+top: -150px;
+left: 48px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}

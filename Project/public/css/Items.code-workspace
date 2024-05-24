@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../Items"
+		},
+		{
+			"path": "../../../node_modules"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../public"
+		},
+		{
+			"path": "../../../src"
+		},
+		{
+			"path": "../../../views"
+		}
+	]
+}

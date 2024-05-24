@@ -1,0 +1,442 @@
+nav.Pag1 {
+    width: 1947px;
+height: 100px;
+top: 0px;
+left: -17px;
+gap: 0px;
+opacity: 0px;
+background-color: rgba(30, 30, 30, 1);
+position: absolute;
+
+}
+.InfinityStore{
+    width: 135px;
+height: 59px;
+top: 21px;
+left: 48px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.02px;
+text-align: left;
+
+position: absolute;
+background-color: rgba(30, 30, 30, 1);
+color: rgb(255, 255, 255);
+
+
+}
+.s-a{
+    width: 765px;
+height: 34px;
+top: -10px;
+left: 25px;
+gap: 0px;
+border-radius: 25px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+}
+.Store{
+    width: 53px;
+height: 26px;
+top: 36px;
+left: 281px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+
+position: absolute;
+background-color: rgba(30, 30, 30, 1);
+color: rgba(255, 255, 255, 1);
+
+}
+.Community{
+    position: absolute;
+    width: 116px;
+height: 26px;
+top: 36px;
+left: 399px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+color: rgba(154, 154, 154, 1);
+background-color: rgba(30, 30, 30, 1);
+}
+.NewsEvents{
+    width: 145px;
+height: 26px;
+top: 36px;
+left: 580px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+color: rgba(154, 154, 154, 1);
+background-color: rgba(30, 30, 30, 1);
+position: absolute;
+}
+.Support{
+    width: 82px;
+height: 26px;
+top: 36px;
+left: 790px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+background-color: rgba(30, 30, 30, 1);
+text-align: left;
+color: rgba(154, 154, 154, 1);
+
+}
+.AboutUs{
+
+position: absolute;
+ width: 92px;
+height: 26px;
+top: 36px;
+left: 937px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+color: rgba(154, 154, 154, 1);
+background-color: rgba(30, 30, 30, 1);
+
+}
+.search{
+    background-color: rgba(30, 30, 30, 1);
+width: 260px;
+height: 40px;
+top: 36px;
+left: 1437px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+font-family: Gilroy;
+font-size: 22px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+background: rgba(255, 255, 255, 1);
+
+}
+.lookfor{
+    width: 230px;
+height: 230px;
+top: -60px;
+left: 1622px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+.iconChangeLanguages{
+    width: 70px;
+    height: 70px;
+    top: 15px;
+    left: 1772px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+
+}
+.iconProfile{
+    width: 50px;
+    height: 50px;
+    top: 25px;
+    left: 1842px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+
+}
+a:link{
+
+    text-decoration: none;
+    
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2a2a2a;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .SideOfLogin{
+    width: 800px;
+height: 450px;
+top: 315px;
+left: 560px;
+gap: 0px;
+border-radius: 3px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+background: rgb(255, 255, 255);
+
+  }
+.LeftwelcomeBack{
+  width: 350px;
+height: 375px;
+top: 35px;
+left: 25px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+background: rgb(255, 255, 255);
+}
+.RigthAlternativeMEthods{
+  width: 350px;
+  height: 375px; 
+  top: 35px;
+left: 425px;
+position: absolute;
+background: rgb(255, 255, 255);
+}
+.QR-Code{
+  width: 217px;
+height: 217px;
+position: absolute;
+top: 50px;
+left: 50px;
+gap: 0px;
+opacity: 0px;
+
+}
+.divided{
+  width: 400px;
+height: 0px;
+top: 215px;
+left: 200px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid rgb(0, 0, 0);
+text-transform: rotate(90deg);
+position: absolute;
+}
+.TextWelcomeBack{
+  width: 241px;
+height: 41px;
+top: 0px;
+left: 50px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 35px;
+font-weight: 400;
+line-height: 40.6px;
+text-align: center;
+color: rgba(0, 0, 0, 1);
+position: absolute;
+}
+.Email{
+  width: 350px;
+height: 35px;
+top: 65px;
+left: 10px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 15px;
+font-weight: 400;
+line-height: 17.4px;
+text-align: left;
+color: rgba(0, 0, 0, 1);
+position: absolute;
+}
+.email{
+  width: 350px;
+  height: 35px;
+top: 80px;
+left: 5px;
+gap: 0px;
+border-radius: 3px 0px 0px 0px;
+opacity: 0px;
+
+font-family: Gilroy;
+font-size: 15px;
+font-weight: 400;
+line-height: 17.4px;
+text-align: left;
+background: #000000;
+color: rgb(255, 255, 255);
+position: absolute;
+}
+.Password{
+  width: 350px;
+  height: 35px;
+  top: 140px;
+  left: 5px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 15px;
+font-weight: 400;
+line-height: 17.4px;
+text-align: left;
+color: #000000;
+position: absolute;
+}
+.password{
+  width: 350px;
+  height: 35px;
+  top: 155px;
+  left: 5px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Gilroy;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 17.4px;
+  text-align: left;
+  background: #000000;
+  color: rgb(255, 255, 255);
+  position: absolute;
+}
+.ForgotPassword{
+  width: 157px;
+height: 17px;
+top: 200px;
+left: 5px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy;
+font-size: 15px;
+font-weight: 400;
+line-height: 17.4px;
+text-align: left;
+color: rgba(120, 9, 206, 1);
+position: absolute;
+}
+.LoginPlacebutton{
+  width: 360px;
+height: 50px;
+top: 275px;
+left: 5px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+background: rgba(30, 30, 30, 1);
+color:aliceblue;
+font-family: Gilroy;
+font-size: 20px;
+font-weight: 400;
+line-height: 23.2px;
+text-align: center;
+}
+.HaveAccount{
+  font-family: Gilroy;
+font-size: 15px;
+font-weight: 400;
+line-height: 17.4px;
+letter-spacing: 0.05em;
+text-align: left;
+width: 178px;
+height: 17px;
+top: 325px;
+left: 5px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+color:rgb(221, 127, 245);
+}
+.AlternativeMethods{
+  width: 322px;
+  height: 41px;
+  top: 0px;
+  left: 25px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Gilroy;
+  font-size: 35px;
+  font-weight: 400;
+  line-height: 40.6px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+    
+}
+
+.Or{
+  font-family: Gilroy;
+font-size: 35px;
+font-weight: 400;
+line-height: 40.6px;
+text-align: center;
+width: 40px;
+height: 41px;
+top: 275px;
+left: 145px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+.Google{
+  width: 50px;
+  height: 50px;
+  top: 160px;
+  left: 10px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+}
+.Instagram{
+  width: 50px;
+  height: 50px;
+  top: 160px;
+  left: 50px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+}
+.Facebook{
+  width: 50px;
+height: 50px;
+top: 160px;
+left: 90px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+.Redit{
+  width: 50px;
+  height: 50px;
+  top: 160px;
+  left: 130px;
+  gap: 0px;
+  opacity: 0px;
+  position: absolute;
+}
+
+.LoginPlace .LoginPlacebutton {
+  padding: 10px 20px;
+  background-color: #000000; 
+  color: white; 
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.LoginPlace .LoginPlacebutton:hover {
+  background-color: #b5009f; 
+}
